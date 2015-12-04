@@ -1,0 +1,4 @@
+Dan K's result for karate:
+
+Daniel Kronovet [10:12 AM] 
+What did you all get for your maximum independent sets? I’m getting 20 for karate (which seems corroborated by running the built-in maximal_independent_set ~100 times and returning the max), and 2738 for power.
